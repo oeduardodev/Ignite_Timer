@@ -2,8 +2,8 @@
 # Ignite Timer
 
 **Ignite Timer** é um projeto de Single Page Application (SPA) desenvolvido com ReactJS que permite criar e gerenciar timers para diferentes tarefas. Cada timer registra um título, além do estado da tarefa, indicando se ela foi concluída, interrompida ou está em andamento.
-<img src="./public/screen">
-<img src="./public/screen-2">
+<img src="./public/screen.png">
+<img src="./public/screen-2.png">
 # Acesse aqui
 
 rocketseat-ignite-timer.vercel.app
