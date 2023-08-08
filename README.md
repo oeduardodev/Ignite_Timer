@@ -13,7 +13,7 @@ rocketseat-ignite-timer.vercel.app
 - Crie e inicie timers para suas tarefas.
 - Registre um título descritivo para cada timer.
 - Marque as tarefas como concluídas quando finalizadas.
-- Pause e retome os timers em andamento.
+- Interrompa os timers em andamento quando desejar.
 - Visualize facilmente o estado atual de cada tarefa.
 
 ## Instalação e Uso
